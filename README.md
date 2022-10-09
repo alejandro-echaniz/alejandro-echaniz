@@ -13,4 +13,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white&style=flat)
 
-### In case I don't see you... good afternoon, good evening, and goodnight 👋
+### In case I don't see you... Good afternoon, good evening, and goodnight 👋
