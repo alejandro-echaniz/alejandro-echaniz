@@ -1,7 +1,5 @@
 # Hey! I'm Alejandro
 
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=alejandro-echaniz&show_icons=true&theme=gotham" />
-
 <img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-echaniz&layout=compact&theme=gotham" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)
