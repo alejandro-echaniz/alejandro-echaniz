@@ -1,6 +1,6 @@
 # Hey! I'm Alejandro
 
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro_echaniz&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-echaniz&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
